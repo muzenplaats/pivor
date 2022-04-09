@@ -67,3 +67,7 @@ Bill Foundation       2         Apr. 9, 2022        Fake donation
 - Swift for iOS and iPadOS
 - Kotlin for Android
 - Qt for Windows Phone
+
+## Contributions
+Please raise issues or send a pull request.
+
