@@ -1,0 +1,26 @@
+{
+  "name": "pivor",
+  "version": "0.1.0-lambda",
+  "description": "The pivor (巧樞) is an ingenious pivoting app for personal usages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muzenplaats/pivor.git"
+  },
+  "keywords": [
+    "Personal",
+    "Individual",
+    "Economy",
+    "Financial",
+    "Pivot"
+  ],
+  "author": "Malcom Wu <malcomwu@gmail.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/muzenplaats/pivor/issues"
+  },
+  "homepage": "https://github.com/muzenplaats/pivor#readme"
+}
