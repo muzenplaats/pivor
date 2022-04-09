@@ -11,8 +11,7 @@ The develpment is ongoing.
 ## Development
 
 ### Modeling
-**i) Qt for Windows Phone
-Accounting Table**
+**i) Accounting Table**
 ```
 =====================================================================
     Name     Amount   Unit    Price     Date              Note
