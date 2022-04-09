@@ -28,7 +28,7 @@ Cigarettes      1    package   95   Apr. 10, 2022  The first account
 Bank Name       Debit*   Credit*  Total*    Check Date       Note
 ---------------------------------------------------------------------
 First Bank       1000       500     500    Apr. 9, 2022   Fake check
-Second Bank       600      2000   -1400    Apr. 9, 2022   Fake check
+Second Bank       600     2,000  -1,400    Apr. 9, 2022   Fake check
 ...
 =====================================================================
 *Since last check.
@@ -37,7 +37,7 @@ Second Bank       600      2000   -1400    Apr. 9, 2022   Fake check
 **iii) Investment Table**
 ```
 =====================================================================
-   Name          Category       ...
+   Name          Category       // ...
 ---------------------------------------------------------------------
 APPL Inc          Stock
 Dollar          Monetary
@@ -57,7 +57,20 @@ Bill Foundation       2         Apr. 9, 2022        Fake donation
 =====================================================================
 ```
 
-**v) Pivot Table**
+**v) Degradation Table (Test)**
+```
+=====================================================================
+(Some Name)    Type             //           // ...
+---------------------------------------------------------------------
+House          debt          -15,000
+Credic Card    debt           -6,000
+Car            pawn
+Watch          pawn
+...
+=====================================================================
+```
+
+**vi) Pivot Table**
 ```
 =====================================================================
 (Some Name)
@@ -66,8 +79,6 @@ Bill Foundation       2         Apr. 9, 2022        Fake donation
 ...
 =====================================================================
 ```
-
-(Debt, pawn, ..)
 
 ### Database
 - Firebase in sync
