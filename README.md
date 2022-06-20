@@ -1,4 +1,4 @@
-# pivor v0.1.0-lambda
+# pivor v0.2.0-lambda
 The pivor (巧樞) is an ingenious pivoting app for personal usages.
 
 ## Introduction
@@ -11,6 +11,8 @@ The develpment is ongoing.
 ## Development
 
 ### Modeling
+(The blob field will be filled in all tables with the items.)
+
 **i) Accounting Table**
 ```
 =====================================================================
